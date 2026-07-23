@@ -51,21 +51,21 @@ export const testimonialsData = [
 
 export const plans = [
     {
-      id: 'Basic',
+      id: 'Básico',
       price: 10,
       credits: 100,
-      desc: 'Best for personal use.'
+      desc: 'O melhor para uso pessoal.'
     },
     {
-      id: 'Advanced',
+      id: 'Avançado',
       price: 50,
       credits: 500,
-      desc: 'Best for business use.'
+      desc: 'Melhor para uso pessoal e empresarial.'
     },
     {
-      id: 'Business',
+      id: 'Negócios',
       price: 250,
       credits: 5000,
-      desc: 'Best for enterprise use.'
+      desc: 'O melhor para empresas.'
     },
   ]
